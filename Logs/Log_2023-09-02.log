@@ -1,0 +1,4 @@
+2023-09-02 12:16:38 INFO  Log:28 - This is INFO Log
+2023-09-02 12:16:38 WARN  Log:34 - This is Warn Log
+2023-09-02 12:16:38 FATAL Log:46 - This is Fatal Log
+2023-09-02 12:16:38 ERROR Log:40 - This is Error Log
